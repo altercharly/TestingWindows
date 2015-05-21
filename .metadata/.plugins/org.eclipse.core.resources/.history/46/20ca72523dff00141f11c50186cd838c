@@ -1,0 +1,7 @@
+package capanegocio;
+
+public class Contpersonas {
+	public void buscarpers(int ndni){
+		Catpersonas.getByDni(int ndni);
+	}
+}

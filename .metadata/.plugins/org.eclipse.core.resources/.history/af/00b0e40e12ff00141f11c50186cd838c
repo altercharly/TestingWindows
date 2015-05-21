@@ -1,0 +1,9 @@
+package capanegocio;
+
+import java.util.ArrayList;
+
+public class Contpersonas {
+	ArrayList<Persona> lista = new ArrayList<Persona>();
+	
+	
+}

@@ -1,0 +1,16 @@
+package capanegocio;
+
+public class Contpersonas {
+	public void buscarpers(int ndni){
+		Catpersonas.getByDni(int ndni);
+	}
+	public boolean validadDni(int ndni){
+		Catpersonas.
+	}
+	public void borrarPers(int dni){
+		Catpersonas.deletePersonas(int dni);
+	}
+	public void guardarPers(Persona npers){
+		Catpersonas.addPersonas(Persona npers);
+	}
+}
